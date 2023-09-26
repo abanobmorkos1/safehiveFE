@@ -18,6 +18,9 @@ SafetyHive is a web-based platform designed to empower communities to enhance sa
 * Render
 
 ## Mockups:
+![Home](public/Home.png) Home Page
+![About us](<public/Incident chart-1.png>) About us
+![Incident chart](<public/Incident chart.png>) Incident chart
 
 ## Features:
 - **Incident Reporting**: Easily report various types of incidents, including crimes, accidents, and suspicious activities. Provide detailed information, including location, date, time and description.
