@@ -17,8 +17,8 @@ SafetyHive is a web-based platform designed to empower communities to enhance sa
 * Render
 
 ## Mockups:
-![Home](public/Home.png) Home Page
-![About us](<public/about.png>) About us
+![Home](public/Home.png)
+![About us](<public/about.png>) 
 
 
 ## Features:
