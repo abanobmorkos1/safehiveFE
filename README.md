@@ -1,5 +1,5 @@
 # SafeHive - Community Saftey and Crime Reporting
-SafetyHive is a web-based platform designed to empower communities to enhance safety and to report incidents.
+SafeHive is a web-based platform designed to empower communities to enhance safety and to report incidents.
 
 ## Table of Contents
 - [Features](#features)
