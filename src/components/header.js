@@ -1,16 +1,16 @@
 
 
 function Header () {
-return <div className="Nav-bar">
-                <h1 className="Nav-title">Safehive</h1>
-            <nav>
-                <ul>
-                    <li>Home</li>
-                    <li>Incident chart</li>
-                    <li>About us</li>
-                </ul>
-            </nav>
-        </div>
-}
+return <> <div className="">
+                    <a href="/"><h1 className="s-htitle">Safehive</h1> </a>
+            </div>
+                <nav>
+                    <ul className="nav">
+                        <a href="/"><ul>Home</ul></a>
+                        <a href="/about"><ul>About us</ul></a>
+                    </ul>
+                </nav>
+</>
+            }
 
 export default Header;

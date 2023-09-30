@@ -1,15 +1,12 @@
-import {createBrowserRouter 
-    , createRoutesFromElements
-    , Route 
-    , Routes } from "react-router-dom"
-import App from './App'
+const URL = "https://safehivebe.onrender.com"
+export const indexLoader = async () => {
+    const response = await fetch(URL + "/safehive/")
+    const safehive = await response.json()
+    return safehive
+}
 
-
-const router = createBrowserRouter(createRoutesFromElements(
-    <> 
-        <Route path="/" elementName={<App/>}>
-
-        </Route>
-
-    </>
-    ))
+export const showLoader = async ({params}) => {
+    const  response = await fetch(URL + `/safehive/${params.id}/`)
+    const safehive = await response.json()
+    return safehive
+}

@@ -14,19 +14,19 @@ SafetyHive is a web-based platform designed to empower communities to enhance sa
 * Node
 * postgreSQL
 * Python
-* Google maps API
 * Render
 
 ## Mockups:
 ![Home](public/Home.png) Home Page
 ![About us](<public/Incident chart-1.png>) About us
-![Incident chart](<public/Incident chart.png>) Incident chart
+
 
 ## Features:
-- **Incident Reporting**: Easily report various types of incidents, including crimes, accidents, and suspicious activities. Provide detailed information, including location, date, time and description.
+- **Incident Reporting**: Easily report various types of incidents, including crimes, accidents, and suspicious activities.
 - **Anonymous Reporting**: Protect privacy and safety with options for anonymous reporting, allowing users to submit reports without disclosing their identities.
-- **Geolocation Services**: Accurately pinpoint incident locations using GPS and mapping services. Visualize incident locations on a map.
+
 ## Upcoming Features
+- **Geolocation Services**: Accurately pinpoint incident locations using GPS and mapping services. Visualize incident locations on a map.
 - **Two-Way Communication**: Direct messaging between users and local law enforcement agencies for information exchange, assistance requests, and incident updates.
 - **Incident Tracking**: View the status of reported incidents, track progress, and follow up as needed.
 - **Reporting Analytics**: Tools for local law enforcement agencies to access data analytics and reporting features to identify crime patterns and allocate resources more effectively.
